@@ -1,0 +1,12 @@
+.grid-container {
+    margin: 1% auto;
+  }
+  
+  .grid {
+    white-space: pre;
+  }
+  
+  button {
+    margin: 5px;
+    margin-top: 1.5rem;
+  }
