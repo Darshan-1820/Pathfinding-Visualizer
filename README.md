@@ -41,7 +41,7 @@ Live _<ins>[here](https://darshan-1820.github.io/Pathfinding-Visualizer/)_</ins>
 > Explores as deeply as possible before backtracking
 > May not find the shortest path
 > Time Complexity: O(V + E)
-> Use Cases: Maze generation, topological sort, Learn More, cycle detection Read More
+> Use Cases: Maze generation, topological sort, [Learn More](https://en.wikipedia.org/wiki/Topological_sorting), cycle detection [Read More](https://www.geeksforgeeks.org/dsa/detect-cycle-in-a-graph/)
 
 ### How to Run Locally
 ```
